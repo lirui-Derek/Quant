@@ -1,0 +1,2 @@
+﻿run_at,signal_date,manual_action_date,ts_code,stock_name,action,suggested_shares,reference_close,sma,cash_before_signal,portfolio_value,status,reason,manual_checklist
+2026-06-27 16:03:35,2026-06-26,,600519.SH,贵州茅台,HOLD,0,1168.63,,,,no_manual_entry,No new buy/sell signal on latest trading day 2026-06-26.,No manual broker action needed.
